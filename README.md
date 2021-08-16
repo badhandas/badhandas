@@ -19,6 +19,7 @@ I’m deep learning and artificial intelligence enthusiastic and currently study
 
   
 </p>
+
 ## Current Status 
 I am actively seeking new opportunities in the domain of Machine Learning, Deep Learning, and Data Science in order to expand my skillset and gain more experience in life.
 
