@@ -22,7 +22,7 @@ I’m deep learning and artificial intelligence enthusiastic and currently study
 ## Current Status 
 I am actively seeking new opportunities in the domain of Machine Learning, Deep Learning, and Data Science in order to expand my skillset and gain more experience in life.
 
-- 🔭 I’m currently working on Medical image processing and using Artificial Neural Network to build models which could help doctors and technicians.
+- 🔭 I’m currently working on Medical image processing and using Artificial Neural Network to build models which could help doctors and technicians in diagonosing cancer.
 - 📫 You can reach me [here](https://www.linkedin.com/in/badhan-kumar-das/) with LinkedIn.
 
 
