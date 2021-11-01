@@ -42,6 +42,7 @@ I am actively seeking new opportunities in the domain of Machine Learning, Deep 
       <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
   <img src="https://img.shields.io/badge/JETSON%20NANO-brightgreen?&style=for-the-badge&logo=Nvidia&logoColor=white" />  
         <img src="https://img.shields.io/badge/Pytorch%20Lightning-blueviolet?style=for-the-badge&logo=pytorchlightning&logoColor=white" />
+  <img src="https://camo.githubusercontent.com/5c6b7c7089d3f5332192f7e90af7a60f7b143a18fc16eee6f031b478d74309d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" />
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
