@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m deep learning and artificial intelligence enthusiast and currently studying Computational Engineering at FAU Erlangen-Nuremberg. I am a highly motivated and goal-oriented professional with 3 years of full-time work experience in IT. I believe in using the modern technologies to the welfare of human beings and our environment.
+I’m deep learning and artificial intelligence enthusiast. I am a highly motivated and goal-oriented professional with 3 years of full-time work experience in IT. I believe in using the modern technologies to the welfare of human beings and our environment.
 
 
 ## Projects/ Publications/ Profile
